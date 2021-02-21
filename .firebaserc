@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "t-sunil-rao": {
+      "hosting": {
+        "tsunilrao": [
+          "t-sunil-rao"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "t-sunil-rao"
+  }
+}
